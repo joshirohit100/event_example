@@ -1,0 +1,7 @@
+event_example.config_form:
+  path: '/event-example-form'
+  defaults:
+    _form: '\Drupal\event_example\Form\EventExampleConfigForm'
+    _title: 'Event Subsciber Example'
+  requirements:
+    _permission: 'access content'

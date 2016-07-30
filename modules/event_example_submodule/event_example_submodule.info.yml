@@ -1,0 +1,6 @@
+name: Event Subscriber Sub Module
+description: Module implements the example of event subsciber.
+type: module
+core: 8.x
+dependencies:
+  - event_example

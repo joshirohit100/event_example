@@ -1,0 +1,4 @@
+name: Event Subsciber Example
+description: Module implements the example of event dispatcher.
+type: module
+core: 8.x
